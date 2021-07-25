@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>😍JJ Personal Site</title>
+  <link rel="stylesheet" href="css/Style.css">
+</head>
+
+<body>
+  <!--"introduction"-->
+  <table cellspacing="20">
+    <td><img src="JJ Profile Picture.png" alt="JJ Profile" width="240" height="240"></td>
+    <td>
+      <h1><a href="https://www.linkedin.com/in/jia-jun-cheah-693671118/">Cheah Jia Jun</a></h1>
+      <p><strong>Nickname:</strong><em>Jj</em></p>
+      <p><strong>Business Analyst</strong><em> in </em><Strong><a href="https://www.bd.com/en-us">Becton Dickinson</a></strong></p>
+      <p>I have choose finance to be my foundation, and to grow it with continuous learning in technical skill and coding.
+        <br>
+        Is a joke that finance people state that finance should focus on your financial statement.
+        <br>
+        Without a mix skill in this world, i believe excel, the finance best friend will never came to this world.
+        <br>
+        Be open and say hello to Fin Tech Era!
+      </p>
+    </td>
+  </table>
+  <hr>
+  <!--"Job History"-->
+  <h3>Job history</h3>
+  <table>
+    <thead>
+      <tr>
+        <td>Date</td>
+        <td>Company</td>
+        <td>Role</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Apr 2016 - Sep 2017</td>
+        <td>Lenovo Sdn Bhd</td>
+        <td>Senior Pricing Analyst</td>
+      </tr>
+      <tr>
+        <td>Nov 2017 - Present</td>
+        <td>Becton Dickinson Sdn Bhd</td>
+        <td>Senior Business Planning Analyst</td>
+      </tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table>
+  <ul>
+    <li>Becton Dickison as Financial Analyst</li>
+    <ul>
+      <li>Senior Financial Analyst</li>
+      <li>Financial Analyst</li>
+    </ul>
+    <li>Lenovo as Pricing Analyst</li>
+  </ul>
+  <hr>
+  <!--"Skill"-->
+  <h3>Skill</h3>
+  <table>
+    <thead>
+      <tr>
+        <td cellspacing="20">Skill Name</td>
+        <td cellspacing="20">Rating</td>
+        <td cellspacing="20">Skill Name</td>
+        <td cellspacing="20">Rating</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td cellspacing="20">Excel Basic</td>
+        <td cellspacing="20">&#9733;&#9733;&#9733;&#9733;&#9733;</td cellspacing="">
+        <td cellspacing="20">PowerShell</td>
+        <td cellspacing="20">&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+      </tr>
+      <tr>
+        <td cellspacing="20">Excel Advanced</td>
+        <td cellspacing="20">&#9733;&#9733;&#9733;&#9733;&#9733;</td>
+        <td cellspacing="10">PowerAutomate</td>
+        <td cellspacing="10">&#9733;&#9733;&#9733;&#9734;&#9734;</td>
+      </tr>
+      <tr>
+        <td cellspacing="10">SAP BPC EPM</td>
+        <td cellspacing="20">&#9733;&#9733;&#9733;&#9733;&#9734;</td>
+        <td cellspacing="10">HTML</td>
+        <td cellspacing="10">&#9733;&#9734;&#9734;&#9734;&#9734;</td>
+      </tr>
+    </tbody>
+    <tfoot>
+
+    </tfoot>
+
+  </table>
+  <hr>
+  <h3>Hobby</h3>
+  <ol>
+    <li>Coding</li>
+    <li>Reading</li>
+    <li>Photography</li>
+    <li>Daydream</li>
+  </ol>
+  <h3><a href="contact_me.html">Contact Me by clicking here</a></h3>
+  <h3><a href="order.html">Order Now</a></h3>
+</body>
+
+</html>
